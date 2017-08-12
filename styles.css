@@ -1,0 +1,38 @@
+﻿/* 添加 CSS */
+img {
+  width: 300px;
+  margin: 20px;  
+}
+
+li {
+  list-style-type: none
+}
+
+.curiosities {
+  font-style: italic;
+}
+
+span {
+  font-weight: bold;
+}
+
+.card {
+  border-style: solid;
+  border-color: #e8e8e8;
+  border-width: thin;
+  width: 340px;
+}
+
+.xiangxixinxi {
+  border-style: solid;
+  border-color: #e8e8e8;
+  border-width: thin;
+}
+
+h3 {
+  margin: 20px;
+}
+
+.xiangxixinxi {
+  margin: 20px;
+}
